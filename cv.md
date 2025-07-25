@@ -1,9 +1,9 @@
-## Short Profile
+# Short Profile
 
 Senior Product Engineer with 13+ years of delivering fast, scalable solutions and automating workflows across startup and high-growth environments. Proven track record in PHP, Python, HTML, CSS, and JavaScript. Expert at translating business goals into technical requirements, leading cross-functional teams, and building user-centric learning platforms. Self-taught, hands-on problem solver passionate about efficiency, collaboration, and driving measurable impact.
 
 
-## Long Version
+# Long Version
 
 I’m a **Senior Product Engineer** with over **13 years’** hands-on experience delivering fast, reliable solutions and automating workflows. My career spans two¹ companies:
 
